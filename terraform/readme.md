@@ -34,4 +34,6 @@ example: *tfplan*
 
 
 .terraformrc
-terraform.rc
+terraform.rcNew branch
+
+new branch
